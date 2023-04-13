@@ -13,9 +13,9 @@ In this Project, we are going to predict the Price of Used Cars using various fe
 1. [ Creating a new Jupyter Notebook. ](#step1)
 2. [Data Scraping uisng web driver](#step2)
 3. [Creating the Dataset.](#step3)
-4. [Data Visualizations](#dataset visualization)
-5. [Training the Models](#Training Models)
-6. [Output of the Model](#Output Models)
+4. [Data Visualizations](#datasetvisualization)
+5. [Training the Models](#TrainingModels)
+6. [Output of the Model](#OutputModels)
 
 <a name="step1"></a>
 
@@ -31,18 +31,18 @@ In this step we haev used the selenium web driver to navigate through the websit
 ## 3.Creating the dataset
 In this step we have stored the scraped data in a Data Frame and then we have converted that to a csv file.
 
-<a name="dataset visualization"></a>
+<a name="datasetvisualization"></a>
 
 ## 4.Data Visualization
 In this step have visulaized our data with the information we got about the diffent manufacturers car and from the different locations. The plots used were Bar graphs,Box Plots, Distribution Plots, Violin pLot etc
 
-<a name="Training Models"></a>
+<a name="TrainingModels"></a>
 
 ## 5. Training the Models
 
 Here we have Trained the different Machine Learning models with our data. We have trained 8 diffeerent models in our training part and comapred the accuracies of the models and used the model with the best accuracy
 
-<a name="Output Models"></a>
+<a name="OutputModels"></a>
 
 ## 6.Working of the Model on real-time user inputs
 I recommend to install the following packages 
