@@ -47,5 +47,5 @@ Here we have Trained the different Machine Learning models with our data. We hav
 ## 6.Working of the Model on real-time user inputs
 I recommend to install the following packages 
 pip install streamlit
-Run the app.py in the anaconda prompt using `python3 app.py` then open the web-address displayed below.
+Run the app.py in the anaconda prompt using `streamlit run app.py` then open the web-address displayed below.
 
