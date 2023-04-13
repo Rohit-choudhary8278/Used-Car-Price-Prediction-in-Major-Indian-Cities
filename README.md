@@ -31,6 +31,9 @@ In this step we haev used the selenium web driver to navigate through the websit
 ## 3.Creating the dataset
 In this step we have stored the scraped data in a Data Frame and then we have converted that to a csv file.
 
+<p align="center">
+<img src="https://github.com/Rohit-choudhary8278/Predictive-Analytics/blob/main/Images/Data.png?raw=true" />
+</p>
 <a name="datasetvisualization"></a>
 
 ## 4.Data Visualization
