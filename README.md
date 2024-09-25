@@ -58,5 +58,5 @@ Run the app.py in the anaconda prompt using `streamlit run app.py` then open the
 <img src="https://github.com/Rohit-choudhary8278/Predictive-Analytics/blob/main/Images/Streamlit.png?raw=true" />
 </p>
 <p align="center">
-<img src="[https://github.com/Rohit-choudhary8278/Predictive-Analytics/blob/main/Images/Output.png?raw=true](https://github.com/Rohit-choudhary8278/Used-Car-Price-Prediction-in-Major-Indian-Cities/blob/main/Images/output.png)" />
+<img src="https://github.com/Rohit-choudhary8278/Predictive-Analytics/blob/main/Images/Output.png?raw=true" />
 </p>.
